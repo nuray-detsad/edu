@@ -7,6 +7,10 @@ background-color: #ffffff	;
 background-repeat: no-repeat;
 }
 
+.documents p {
+  text-align: center;
+}
+
 video {
   display: flex; 
   justify-content: center; 
