@@ -11,13 +11,14 @@ background-repeat: no-repeat;
     text-align: center;
 }
 
-.uchit h3 {
+.uchit p {
     text-align: center;
 }
 
 .uchit img {
-    justify-content: center; 
-    align-items: center;
+
+    text-align: center;
+
 }
 
 video {
