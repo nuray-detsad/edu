@@ -15,10 +15,8 @@ background-repeat: no-repeat;
     text-align: center;
 }
 
-.uchit {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.uchit img {
+    margin-left: 500px;
     margin-top: 50px;
     width: 200px;
     height: 350px;
