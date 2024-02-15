@@ -11,6 +11,15 @@ background-repeat: no-repeat;
     text-align: center;
 }
 
+.uchit h3 {
+    text-align: center;
+}
+
+.uchit img {
+    justify-content: center; 
+    align-items: center;
+}
+
 video {
   display: flex; 
   justify-content: center; 
