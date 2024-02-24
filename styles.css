@@ -11,8 +11,12 @@ background-repeat: no-repeat;
     text-align: center;
 }
 
+.table {
+  width: 650px;
+}
+
  .table th td {
-            border: 1px solid black;
+            border: 2px solid black;
             border-collapse: collapse;
         }
         th, td {
