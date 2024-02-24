@@ -11,6 +11,7 @@ background-repeat: no-repeat;
   width: 520px;
   height: 600px;
   margin: auto;
+  display: flex;
 }
 
 .about p {
@@ -45,8 +46,8 @@ table {
 }
 
 .uchit img {
-    margin-left: 500px;
-    margin-top: 50px;
+    margin: auto;
+    display: flex;
     width: 200px;
     height: 350px;
 }
