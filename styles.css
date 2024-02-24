@@ -11,6 +11,10 @@ background-repeat: no-repeat;
     text-align: center;
 }
 
+.job p {
+   text-align: center;
+}
+
 table {
   width: 650px;
   margin: auto;
