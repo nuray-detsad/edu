@@ -186,6 +186,7 @@ nav ul {
   list-style: none;
   display: flex;
   gap: 80px;
+  flex-wrap: wrap;
 }
 
 nav a {
