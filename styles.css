@@ -11,8 +11,9 @@ background-repeat: no-repeat;
     text-align: center;
 }
 
-.table {
+table {
   width: 650px;
+  text-align: center;
 }
 
  .table th td {
